@@ -16,7 +16,7 @@
 
 ## ScreenShots
 
-![screenshot-1](https://pasteboard.co/JEjBFpj.png)
+![screenshot-1](https://serving.photos.photobox.com/542977891b894e882afb59f21fc7541a3eeb26d27c9f70944f22d9d196f47e146c597a33.jpg)
 
 ![screenshot-2](http://url/to/img.png)
 
