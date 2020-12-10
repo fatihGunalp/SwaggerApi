@@ -13,3 +13,14 @@
 ## Nuget Packages
 
 - Swashbuckle
+
+## ScreenShots
+
+![screenshot-1](https://pasteboard.co/JEjBFpj.png)
+
+![screenshot-2](http://url/to/img.png)
+
+![screenshot-3](http://url/to/img.png)
+
+![screenshot-4](http://url/to/img.png)
+
